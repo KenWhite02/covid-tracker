@@ -2,7 +2,7 @@
 
 Covid-19 Tracker <br/>
 
-As cases are still on the rise, as a programmer I built a Covid tracker to keep you up to date on the latest cases.
+As cases are still on the rise, as a programmer I built a Covid tracker to keep you up to date on the latest stats of the virus.
 
 ## Screenshot
 
@@ -10,7 +10,18 @@ As cases are still on the rise, as a programmer I built a Covid tracker to keep 
 
 ## Technologies Used
 
-React, Material UI & React Leaflet.
+This project was initialized using `React Js.`
+
+I consumed the `disease.sh` api and fetched data which was used in compiling the statistics.
+
+`Material UI` was mainly used for the design of this project.
+
+Dependencies such as `chart-js` was used in displaying the Worlwide New Cases Graph.
+
+`React Leaflet` was used in displaying the world map.
+
+`Api Reference` 
+For more info on the api used, feel free to view the documentation at [https://disease.sh/docs/](https://disease.sh/docs/)
 
 ## View Project
 
